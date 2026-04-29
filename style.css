@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Site Colorido</title>
+<style>
+/* Cor de fundo da página */
+
+body {
+background-color: #f0f8ff; /* Cor de fundo suave */
+color: #333; /* Cor do texto */
+font-family: Arial, sans-serif;
+}
+
+/* Cor do cabeçalho */
+header {
+background-color: #101010; /* Cor de fundo verde */
+color: white; /* Cor do texto */
+padding: 20px;
+text-align: center;
+}
+
+/* Cor de fundo dos parágrafos */
+p {
+background-color: #fff; /* Fundo branco */
+padding: 10px;
+border-radius: 5px;
+margin: 10px 0;
+}
+
+/* Cor de fundo dos links */
+a {
+color: #1e90ff; /* Cor azul dos links */
+text-decoration: none;
+}
+
+a:hover {
+color: #ff6347; /* Cor dos links ao passar o mouse */
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1></h1>
+</header>
+
+<p></p>
+<p><a href="#">Clique aqui para saber mais</a></p>
+
+</body>
+</html>
+
