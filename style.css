@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Site Colorido</title>
-<style>
+
 /* Cor de fundo da página */
 
 body {
@@ -38,17 +32,4 @@ text-decoration: none;
 a:hover {
 color: #ff6347; /* Cor dos links ao passar o mouse */
 }
-</style>
-</head>
-<body>
-
-<header>
-<h1></h1>
-</header>
-
-<p></p>
-<p><a href="#">Clique aqui para saber mais</a></p>
-
-</body>
-</html>
 
